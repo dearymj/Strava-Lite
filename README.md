@@ -1,7 +1,7 @@
 # Strava Lite
 
 ## GitHub Repository
-[https://github.com/yourusername/strava-lite](https://github.com/yourusername/strava-lite)
+https://github.com/dearymj/Strava-Lite
 
 ## Name & Stevens Email
 - Mingjing Yuan. 
